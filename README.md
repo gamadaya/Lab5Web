@@ -33,7 +33,7 @@ console.log("Hello World");
 
 **Screenshot Hasil:**
 
-![Langkah 1](/screenshots/1.png)
+![Langkah 1](./screenshots/1.png)
 
 ## 2. Alert dan prompt
 
