@@ -1,4 +1,4 @@
-# Praktikum 4: Java Script Dasar
+# Praktikum 5: Java Script Dasar
 
 Repository ini disusun untuk memenuhi tugas **Praktikum 5 - Java Script Dasar** pada mata kuliah Pemrograman Web.
 
@@ -33,7 +33,7 @@ console.log("Hello World");
 
 **Screenshot Hasil:**
 
-![Langkah 1](./screenshots/1.png)
+![Langkah 1](./Praktikumke-5/screenshots/1.png)
 
 ## 2. Alert dan prompt
 
