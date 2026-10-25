@@ -943,5 +943,3 @@ contoh lengkap HTML dan script JavaScript untuk memvalidasi input nama dan nilai
 </body>
 </html>
 ```
-- [x] Berkas `README.md` disusun rapi dan mendalam sesuai modul.
-- [x] Perubahan di-commit secara lokal di repositori dan siap di-push manual oleh mahasiswa.
